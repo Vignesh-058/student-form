@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    padding: 20px;
+    padding: 25px;
 }
 
 table {
@@ -8,11 +8,13 @@ table {
     border-collapse: collapse;
 }
 
-td, th {
+td,
+th {
     padding: 8px;
     border: 1px solid #ccc;
 }
 
-input, select {
+input,
+select {
     padding: 5px;
 }
